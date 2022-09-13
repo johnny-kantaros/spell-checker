@@ -90,6 +90,7 @@ Each of these data fields has corresponding setter / getter methods
 ### QuadraticProbingHashTable.java
 
 -Written by Mark Allen Weiss
+
 -Contains necessary implementation / methods in order to use QPHT
 
 ## Technologies Used
