@@ -17,15 +17,23 @@ These two classes are very similar, with the main difference being SpellSorter's
 Both of these files will complete the following operations:
 
 -Take in dictionary file as parameter, store in Quadratic Probing Hash Table (QPHT)
+
 -Prompt user for a file to be spell checked
--Prompt user whether user wants to print words, enter new file, or quit 
+
+-Prompt user whether user wants to print words, enter new file, or quit
+
 -When user enters p, program will iterate through file, line by line
+
 -For each misspelled word, it will store bucket style (to be sorted later) by their first letter (case sensitive)
+
 -Will prompt user what action they would like to choose for misspelled word
+
 -Will attempt to replace word with suggestions
+
 -At the end of the program, it will output a corrected file, and an order file (chronological order of misspelled words)
 
 ** see code for description of each method
+
 
 In SpellSorter
 
@@ -37,7 +45,7 @@ In SpellSorter
 
 ** If I had more time, I would try to implement more replacement methods. 
 
---> As of now, only the following three are implemented:
+As of now, only the following three are implemented:
 
 
 Delete:
