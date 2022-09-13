@@ -48,18 +48,18 @@ In SpellSorter
 As of now, only the following three are implemented:
 
 
-Delete:
+### Delete:
 
 Tries to delete each character in misspelled word to account for extra character typo
 
 
-Swap:
+### Swap:
 
 Swaps each pair of adjacent characters to account for order typo
 
 
 
-Split:
+### Split:
 
 Tries to split the word in multiple 2 word combinations to account for user forgetting a space.
 
@@ -67,7 +67,7 @@ Tries to split the word in multiple 2 word combinations to account for user forg
 ## Other classes
 
 
-Word.java
+### Word.java
 
 
 In this class, I created a word object with a few data fields:
@@ -85,7 +85,9 @@ In this class, I created a word object with a few data fields:
 Each of these data fields has corresponding setter / getter methods
 
 
-QuadraticProbingHashTable.java
+
+
+### QuadraticProbingHashTable.java
 
 -Written by Mark Allen Weiss
 -Contains necessary implementation / methods in order to use QPHT
