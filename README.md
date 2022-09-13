@@ -1,3 +1,11 @@
+# Introduction
+
+For my final project in CS201, I created a high-level Spell Checker algorithm (written in Java).
+Below, I will briefly elaborate on the different classes and methodology of my implementation.
+
+
+# 
+
 
 In this project you will find three java classes: Word.java, SpellSorter.java, and SpellChecker.java.
 
